@@ -18,7 +18,7 @@ Here are some ideas to get you started:
 👋 Hi there
 ======
 
-I'm Shiqi. Say hi with me at[Linkedin](https://www.linkedin.com/in/lolimay/).
+I'm Shiqi. Say hi with me at [Linkedin](https://www.linkedin.com/in/lolimay/).
 
 Welcome to visit my blog [lolimay.cn](https://lolimay.cn)
 
