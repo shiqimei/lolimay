@@ -8,4 +8,4 @@
 <img src="https://komarev.com/ghpvc/?username=lolimay&color=green" />
 </p>
 
-<p align="center"> <img src="https://github-readme-stats.vercel.app/api?username=lolimay&show_icons=true&hide_title=true" alt="github stat" /> </p>
+<p align="center"> <img src="https://github-readme-stats.vercel.app/api?username=lolimay&show_icons=true&hide_title=true&bg_color=ffffff&hide_border=true" alt="github stat" /> </p>
