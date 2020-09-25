@@ -1,11 +1,11 @@
 <h1 align="center">👋 Hi there</h1>
 
-<p align="center">I'm Shiqi. Say hi with me on <a href="https://www.linkedin.com/in/lolimay/" target="_blank">Linkedin</a> and welcome to visit my <a href="https://lolimay.cn" target="_blank">blog</a> </p>
+<p align="center">I'm Shiqi. Say hi with me on <a href="https://www.linkedin.com/in/lolimay/" target="_blank">Linkedin</a> and welcome to visit my <a href="https://lolimay.cn" target="_blank">blog</a>!</p>
 
 <p align="center">
-![Love Open Source](http://img.shields.io/badge/Open%20Source-%E2%9D%A4-green)
-![Junior Developer @](https://img.shields.io/badge/Junior%20Developer%20@-Rocket.Chat-red)
-![](https://komarev.com/ghpvc/?username=lolimay&color=green)
+<img src="http://img.shields.io/badge/Open%20Source-%E2%9D%A4-green" />
+<img src="https://img.shields.io/badge/Junior%20Developer%20@-Rocket.Chat-red" />
+<img src="https://komarev.com/ghpvc/?username=lolimay&color=green" />
 </p>
 
 <p align="center"> <img src="https://github-readme-stats.vercel.app/api?username=lolimay&show_icons=true&hide_title=true" alt="github stat" /> </p>
