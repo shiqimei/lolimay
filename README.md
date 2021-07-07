@@ -4,7 +4,7 @@
 
 <p align="center">
 <img src="http://img.shields.io/badge/Open%20Source-%E2%9D%A4-green" />
-<img src="https://img.shields.io/badge/Junior%20Developer%20@-Rocket.Chat-red" />
+<img src="https://img.shields.io/badge/Junior%20Developer%20@-TME/KUGOU-blue" />
 <img src="https://komarev.com/ghpvc/?username=lolimay&color=green" />
 </p>
 
