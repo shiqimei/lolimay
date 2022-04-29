@@ -1,6 +1,6 @@
 <h1 align="center">👋 Hi there</h1>
 
-<p align="center">I'm Shiqi, the creator of Dalk. Say hi with me on <a href="" target="_blank">Dalk</a>!</p>
+<p align="center">I'm Shiqi, the creator of <b>Dalk</b> (Decentralized Talk). Free feel to say hi with me on <a href="" target="_blank">Dalk</a>!</p>
 
 <p align="center">
 <img src="http://img.shields.io/badge/Open%20Source-%E2%9D%A4-green" />
