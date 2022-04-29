@@ -1,6 +1,6 @@
 <h1 align="center">👋 Hi there</h1>
 
-<p align="center">I'm Shiqi. Say hi with me on <a href="https://www.linkedin.com/in/lolimay/" target="_blank">Linkedin</a> and welcome to visit my <a href="https://lolimay.cn" target="_blank">blog</a>!</p>
+<p align="center">I'm Shiqi. Say hi with me on <a href="" target="_blank">Dalk</a> and welcome to visit my <a href="https://lolimay.cn" target="_blank">blog</a>!</p>
 
 <p align="center">
 <img src="http://img.shields.io/badge/Open%20Source-%E2%9D%A4-green" />
